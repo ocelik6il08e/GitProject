@@ -7,5 +7,6 @@ public class GitFun {
         String lastname = "Celik";
         System.out.println(name);
         System.out.println(lastname);
+        System.out.println(name+lastname);
     }
 }
